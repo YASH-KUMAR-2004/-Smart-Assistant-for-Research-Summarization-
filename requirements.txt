@@ -1,0 +1,9 @@
+gradio
+PyMUPDF
+spacy
+en_core_web_sm
+fitz
+transformers 
+pipeline
+difflib
+SequenceMatcher
